@@ -6,4 +6,4 @@ excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see wh
 image: "/images/pic02.jpg"
 ---
 
-Hi I'm Robby Good.
+Hi I'm Robby Good. LOL
